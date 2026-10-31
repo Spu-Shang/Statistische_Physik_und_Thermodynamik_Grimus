@@ -1,2 +1,4 @@
 # Statistische_Physik_und_Thermodynamik_Grimus
-I try to set up a Repo for the Exercises in the book and maybe also summaries of the topics and chapters
+I try to set up a Repo for the Exercises in the book and maybe also summaries of the topics and chapters.
+
+Details are given in KONTEXT_BASE.md and KONTEXT_PROBLEM_TEMPLATE.md.
